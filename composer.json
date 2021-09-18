@@ -1,0 +1,16 @@
+{
+    "name": "hexlet/code",
+    "description": "#",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniil Hansen",
+            "email": "danniil.glazkov@gmail.com"
+        }
+    ],
+    "require": {}
+}
